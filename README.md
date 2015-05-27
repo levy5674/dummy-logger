@@ -2,7 +2,7 @@
 
 ## Don't use this!  
 
-I'm just messing around with end points for a JSON logging service, actual storage is garbage -- no effort towards throughput or guaranteed delivery of messages.
+I am just messing around with end points for a JSON logging service, actual storage is garbage -- no effort towards throughput or guaranteed delivery of messages.
 
 ## Usage (but don't do it)
 
